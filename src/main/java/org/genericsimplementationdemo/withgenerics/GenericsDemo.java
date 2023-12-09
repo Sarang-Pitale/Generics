@@ -1,4 +1,4 @@
-package src.main.java.org.withgenerics;
+package src.main.java.org.genericsimplementationdemo.withgenerics;
 
 public class GenericsDemo {
     public static void main(String[] args) {
