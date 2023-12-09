@@ -1,2 +1,0 @@
-# Generics
-Simple Generics Implementation
