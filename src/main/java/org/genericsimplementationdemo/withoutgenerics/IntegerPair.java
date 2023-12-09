@@ -1,4 +1,4 @@
-package src.main.java.org.withoutgenerics;
+package src.main.java.org.genericsimplementationdemo.withoutgenerics;
 
 public class IntegerPair {
     private Integer first;
